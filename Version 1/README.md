@@ -17,3 +17,5 @@ Therefore, this source code's aim is to add geometry field into link.csv, accord
 ## How to use this source code?
 
 Open this folder as a project, run data_process.py. The "link_after_process.csv" file will be outputted into this folder.
+
+![image](https://user-images.githubusercontent.com/47074370/128634733-60f1b5d0-db9d-4bfe-a657-a45367364f09.png)
