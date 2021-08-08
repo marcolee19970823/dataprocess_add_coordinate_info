@@ -1,6 +1,6 @@
 ## What does this source code do?
 
-Input files: node.csv and link.csv.
+**Input files**: node.csv and link.csv.
 
 ![image](https://user-images.githubusercontent.com/47074370/128634299-7d2c462f-323e-43c9-9a13-86586b876845.png)
 
