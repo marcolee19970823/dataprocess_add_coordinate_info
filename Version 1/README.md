@@ -12,7 +12,7 @@ link.csv file has four fields, namely link_id, from_node_id, to_node_id, and len
 
 Note that the link.csv does not have geometry field, the geometry field is used to describe the geometry of the link and is encoded by WKT format. Fore more infomation of WKT format, please refer to: https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry
 
-Therefore, this source code is to add geometry field into link.csv, according to the coordinate info provided by node.csv.
+Therefore, this source code's aim is to add geometry field into link.csv, according to the coordinate info provided by node.csv.
 
 ## How to use this source code?
 
